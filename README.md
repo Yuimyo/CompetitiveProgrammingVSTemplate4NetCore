@@ -1,0 +1,2 @@
+# CompetitiveProgrammingVSTemplate4NetCore
+競プロ用テンプレート
